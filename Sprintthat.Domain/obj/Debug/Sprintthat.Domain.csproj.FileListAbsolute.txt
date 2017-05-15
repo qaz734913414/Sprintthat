@@ -1,0 +1,10 @@
+G:\TestCode\C#\MNext\MNext.Domain\obj\Debug\Sprintthat.Domain.csprojResolveAssemblyReference.cache
+G:\TestCode\C#\MNext\MNext.Domain\bin\Debug\Sprintthat.Domain.dll
+G:\TestCode\C#\MNext\MNext.Domain\bin\Debug\Sprintthat.Domain.pdb
+G:\TestCode\C#\MNext\MNext.Domain\obj\Debug\Sprintthat.Domain.dll
+G:\TestCode\C#\MNext\MNext.Domain\obj\Debug\Sprintthat.Domain.pdb
+G:\TestCode\C#\Sprint-that\Sprintthat.Domain\bin\Debug\Sprintthat.Domain.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Domain\bin\Debug\Sprintthat.Domain.pdb
+G:\TestCode\C#\Sprint-that\Sprintthat.Domain\obj\Debug\Sprintthat.Domain.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Domain\obj\Debug\Sprintthat.Domain.pdb
+G:\TestCode\C#\Sprint-that\Sprintthat.Domain\obj\Debug\Sprintthat.Domain.csprojResolveAssemblyReference.cache

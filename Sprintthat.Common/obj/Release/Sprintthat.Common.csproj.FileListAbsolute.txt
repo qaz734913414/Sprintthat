@@ -1,0 +1,7 @@
+G:\TestCode\C#\Sprint-that\Sprintthat.Common\bin\Release\Sprintthat.Common.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Common\bin\Release\Sprintthat.Common.pdb
+G:\TestCode\C#\Sprint-that\Sprintthat.Common\bin\Release\Newtonsoft.Json.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Common\bin\Release\Newtonsoft.Json.xml
+G:\TestCode\C#\Sprint-that\Sprintthat.Common\obj\Release\Sprintthat.Common.csprojResolveAssemblyReference.cache
+G:\TestCode\C#\Sprint-that\Sprintthat.Common\obj\Release\Sprintthat.Common.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Common\obj\Release\Sprintthat.Common.pdb

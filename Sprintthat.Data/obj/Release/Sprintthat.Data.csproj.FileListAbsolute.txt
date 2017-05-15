@@ -1,0 +1,14 @@
+G:\TestCode\C#\Sprint-that\Sprintthat.Data\bin\Release\Sprintthat.Data.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Data\bin\Release\Sprintthat.Data.pdb
+G:\TestCode\C#\Sprint-that\Sprintthat.Data\bin\Release\EntityFramework.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Data\bin\Release\EntityFramework.SqlServer.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Data\bin\Release\Sprintthat.Domain.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Data\bin\Release\Sprintthat.Mapping.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Data\bin\Release\Sprintthat.Domain.pdb
+G:\TestCode\C#\Sprint-that\Sprintthat.Data\bin\Release\Sprintthat.Mapping.pdb
+G:\TestCode\C#\Sprint-that\Sprintthat.Data\bin\Release\EntityFramework.xml
+G:\TestCode\C#\Sprint-that\Sprintthat.Data\bin\Release\EntityFramework.SqlServer.xml
+G:\TestCode\C#\Sprint-that\Sprintthat.Data\bin\Release\zh-Hans\EntityFramework.resources.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Data\obj\Release\Sprintthat.Data.csprojResolveAssemblyReference.cache
+G:\TestCode\C#\Sprint-that\Sprintthat.Data\obj\Release\Sprintthat.Data.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Data\obj\Release\Sprintthat.Data.pdb

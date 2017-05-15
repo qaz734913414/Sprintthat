@@ -1,0 +1,5 @@
+G:\TestCode\C#\Sprint-that\Sprintthat.Domain\bin\Release\Sprintthat.Domain.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Domain\bin\Release\Sprintthat.Domain.pdb
+G:\TestCode\C#\Sprint-that\Sprintthat.Domain\obj\Release\Sprintthat.Domain.csprojResolveAssemblyReference.cache
+G:\TestCode\C#\Sprint-that\Sprintthat.Domain\obj\Release\Sprintthat.Domain.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Domain\obj\Release\Sprintthat.Domain.pdb

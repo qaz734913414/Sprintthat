@@ -1,0 +1,14 @@
+G:\TestCode\C#\MNext\MNext.Application\bin\Debug\MNext.Application.dll
+G:\TestCode\C#\MNext\MNext.Application\bin\Debug\MNext.Application.pdb
+G:\TestCode\C#\MNext\MNext.Application\obj\Debug\MNext.Application.dll
+G:\TestCode\C#\MNext\MNext.Application\obj\Debug\MNext.Application.pdb
+G:\TestCode\C#\MNext\MNext.Application\bin\Debug\MNext.Repository.dll
+G:\TestCode\C#\MNext\MNext.Application\bin\Debug\MNext.Data.dll
+G:\TestCode\C#\MNext\MNext.Application\bin\Debug\MNext.Domain.dll
+G:\TestCode\C#\MNext\MNext.Application\bin\Debug\EntityFramework.dll
+G:\TestCode\C#\MNext\MNext.Application\bin\Debug\MNext.Repository.pdb
+G:\TestCode\C#\MNext\MNext.Application\bin\Debug\MNext.Data.pdb
+G:\TestCode\C#\MNext\MNext.Application\bin\Debug\MNext.Domain.pdb
+G:\TestCode\C#\MNext\MNext.Application\bin\Debug\EntityFramework.xml
+G:\TestCode\C#\MNext\MNext.Application\bin\Debug\zh-Hans\EntityFramework.resources.dll
+G:\TestCode\C#\MNext\MNext.Application\obj\Debug\MNext.Application.csprojResolveAssemblyReference.cache

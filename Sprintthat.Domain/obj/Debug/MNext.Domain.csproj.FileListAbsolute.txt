@@ -1,0 +1,5 @@
+G:\TestCode\C#\MNext\MNext.Domain\bin\Debug\MNext.Domain.dll
+G:\TestCode\C#\MNext\MNext.Domain\bin\Debug\MNext.Domain.pdb
+G:\TestCode\C#\MNext\MNext.Domain\obj\Debug\MNext.Domain.dll
+G:\TestCode\C#\MNext\MNext.Domain\obj\Debug\MNext.Domain.pdb
+G:\TestCode\C#\MNext\MNext.Domain\obj\Debug\MNext.Domain.csprojResolveAssemblyReference.cache

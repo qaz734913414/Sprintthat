@@ -1,0 +1,14 @@
+G:\TestCode\C#\MNext\MNext.Common\bin\Debug\Newtonsoft.Json.dll
+G:\TestCode\C#\MNext\MNext.Common\bin\Debug\Newtonsoft.Json.xml
+G:\TestCode\C#\MNext\MNext.Common\obj\Debug\Sprintthat.Common.csprojResolveAssemblyReference.cache
+G:\TestCode\C#\MNext\MNext.Common\bin\Debug\Sprintthat.Common.dll
+G:\TestCode\C#\MNext\MNext.Common\bin\Debug\Sprintthat.Common.pdb
+G:\TestCode\C#\MNext\MNext.Common\obj\Debug\Sprintthat.Common.dll
+G:\TestCode\C#\MNext\MNext.Common\obj\Debug\Sprintthat.Common.pdb
+G:\TestCode\C#\Sprint-that\Sprintthat.Common\bin\Debug\Sprintthat.Common.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Common\bin\Debug\Sprintthat.Common.pdb
+G:\TestCode\C#\Sprint-that\Sprintthat.Common\bin\Debug\Newtonsoft.Json.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Common\bin\Debug\Newtonsoft.Json.xml
+G:\TestCode\C#\Sprint-that\Sprintthat.Common\obj\Debug\Sprintthat.Common.dll
+G:\TestCode\C#\Sprint-that\Sprintthat.Common\obj\Debug\Sprintthat.Common.pdb
+G:\TestCode\C#\Sprint-that\Sprintthat.Common\obj\Debug\Sprintthat.Common.csprojResolveAssemblyReference.cache

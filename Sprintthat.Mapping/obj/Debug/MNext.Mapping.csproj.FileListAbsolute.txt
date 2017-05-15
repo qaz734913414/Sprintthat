@@ -1,0 +1,12 @@
+G:\TestCode\C#\MNext\MNext.Mapping\bin\Debug\MNext.Mapping.dll
+G:\TestCode\C#\MNext\MNext.Mapping\bin\Debug\MNext.Mapping.pdb
+G:\TestCode\C#\MNext\MNext.Mapping\obj\Debug\MNext.Mapping.csprojResolveAssemblyReference.cache
+G:\TestCode\C#\MNext\MNext.Mapping\obj\Debug\MNext.Mapping.dll
+G:\TestCode\C#\MNext\MNext.Mapping\obj\Debug\MNext.Mapping.pdb
+G:\TestCode\C#\MNext\MNext.Mapping\bin\Debug\EntityFramework.dll
+G:\TestCode\C#\MNext\MNext.Mapping\bin\Debug\EntityFramework.SqlServer.dll
+G:\TestCode\C#\MNext\MNext.Mapping\bin\Debug\MNext.Domain.dll
+G:\TestCode\C#\MNext\MNext.Mapping\bin\Debug\MNext.Domain.pdb
+G:\TestCode\C#\MNext\MNext.Mapping\bin\Debug\EntityFramework.xml
+G:\TestCode\C#\MNext\MNext.Mapping\bin\Debug\EntityFramework.SqlServer.xml
+G:\TestCode\C#\MNext\MNext.Mapping\bin\Debug\zh-Hans\EntityFramework.resources.dll
