@@ -196,3 +196,6 @@ E:\GitHub\Sprintthat\Sprintthat.WebApi\bin\zh-Hans\System.Web.WebPages.Razor.res
 E:\GitHub\Sprintthat\Sprintthat.WebApi\obj\Debug\Sprintthat.WebApi.csprojResolveAssemblyReference.cache
 E:\GitHub\Sprintthat\Sprintthat.WebApi\obj\Debug\Sprintthat.WebApi.dll
 E:\GitHub\Sprintthat\Sprintthat.WebApi\obj\Debug\Sprintthat.WebApi.pdb
+E:\GitHub\Sprintthat\Sprintthat.WebApi\bin\System.Web.Cors.dll
+E:\GitHub\Sprintthat\Sprintthat.WebApi\bin\System.Web.Http.Cors.dll
+E:\GitHub\Sprintthat\Sprintthat.WebApi\bin\System.Web.Http.Cors.xml

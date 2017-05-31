@@ -3,3 +3,8 @@ G:\TestCode\C#\Sprint-that\Sprintthat.Domain\bin\Release\Sprintthat.Domain.pdb
 G:\TestCode\C#\Sprint-that\Sprintthat.Domain\obj\Release\Sprintthat.Domain.csprojResolveAssemblyReference.cache
 G:\TestCode\C#\Sprint-that\Sprintthat.Domain\obj\Release\Sprintthat.Domain.dll
 G:\TestCode\C#\Sprint-that\Sprintthat.Domain\obj\Release\Sprintthat.Domain.pdb
+E:\GitHub\Sprintthat\Sprintthat.Domain\bin\Release\Sprintthat.Domain.dll
+E:\GitHub\Sprintthat\Sprintthat.Domain\bin\Release\Sprintthat.Domain.pdb
+E:\GitHub\Sprintthat\Sprintthat.Domain\obj\Release\Sprintthat.Domain.csprojResolveAssemblyReference.cache
+E:\GitHub\Sprintthat\Sprintthat.Domain\obj\Release\Sprintthat.Domain.dll
+E:\GitHub\Sprintthat\Sprintthat.Domain\obj\Release\Sprintthat.Domain.pdb

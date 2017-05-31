@@ -12,3 +12,17 @@ G:\TestCode\C#\Sprint-that\Sprintthat.Data\bin\Release\zh-Hans\EntityFramework.r
 G:\TestCode\C#\Sprint-that\Sprintthat.Data\obj\Release\Sprintthat.Data.csprojResolveAssemblyReference.cache
 G:\TestCode\C#\Sprint-that\Sprintthat.Data\obj\Release\Sprintthat.Data.dll
 G:\TestCode\C#\Sprint-that\Sprintthat.Data\obj\Release\Sprintthat.Data.pdb
+E:\GitHub\Sprintthat\Sprintthat.Data\bin\Release\Sprintthat.Data.dll
+E:\GitHub\Sprintthat\Sprintthat.Data\bin\Release\Sprintthat.Data.pdb
+E:\GitHub\Sprintthat\Sprintthat.Data\bin\Release\EntityFramework.dll
+E:\GitHub\Sprintthat\Sprintthat.Data\bin\Release\EntityFramework.SqlServer.dll
+E:\GitHub\Sprintthat\Sprintthat.Data\bin\Release\Sprintthat.Domain.dll
+E:\GitHub\Sprintthat\Sprintthat.Data\bin\Release\Sprintthat.Mapping.dll
+E:\GitHub\Sprintthat\Sprintthat.Data\bin\Release\Sprintthat.Domain.pdb
+E:\GitHub\Sprintthat\Sprintthat.Data\bin\Release\Sprintthat.Mapping.pdb
+E:\GitHub\Sprintthat\Sprintthat.Data\bin\Release\EntityFramework.xml
+E:\GitHub\Sprintthat\Sprintthat.Data\bin\Release\EntityFramework.SqlServer.xml
+E:\GitHub\Sprintthat\Sprintthat.Data\bin\Release\zh-Hans\EntityFramework.resources.dll
+E:\GitHub\Sprintthat\Sprintthat.Data\obj\Release\Sprintthat.Data.csprojResolveAssemblyReference.cache
+E:\GitHub\Sprintthat\Sprintthat.Data\obj\Release\Sprintthat.Data.dll
+E:\GitHub\Sprintthat\Sprintthat.Data\obj\Release\Sprintthat.Data.pdb

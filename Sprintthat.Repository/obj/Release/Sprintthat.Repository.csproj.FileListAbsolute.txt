@@ -10,3 +10,15 @@ G:\TestCode\C#\Sprint-that\Sprintthat.Repository\bin\Release\zh-Hans\EntityFrame
 G:\TestCode\C#\Sprint-that\Sprintthat.Repository\obj\Release\Sprintthat.Repository.csprojResolveAssemblyReference.cache
 G:\TestCode\C#\Sprint-that\Sprintthat.Repository\obj\Release\Sprintthat.Repository.dll
 G:\TestCode\C#\Sprint-that\Sprintthat.Repository\obj\Release\Sprintthat.Repository.pdb
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Release\Sprintthat.Repository.dll
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Release\Sprintthat.Repository.pdb
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Release\Sprintthat.Data.dll
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Release\Sprintthat.Domain.dll
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Release\EntityFramework.dll
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Release\Sprintthat.Data.pdb
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Release\Sprintthat.Domain.pdb
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Release\EntityFramework.xml
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Release\zh-Hans\EntityFramework.resources.dll
+E:\GitHub\Sprintthat\Sprintthat.Repository\obj\Release\Sprintthat.Repository.csprojResolveAssemblyReference.cache
+E:\GitHub\Sprintthat\Sprintthat.Repository\obj\Release\Sprintthat.Repository.dll
+E:\GitHub\Sprintthat\Sprintthat.Repository\obj\Release\Sprintthat.Repository.pdb

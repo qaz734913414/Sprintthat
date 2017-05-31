@@ -5,3 +5,10 @@ G:\TestCode\C#\Sprint-that\Sprintthat.Common\bin\Release\Newtonsoft.Json.xml
 G:\TestCode\C#\Sprint-that\Sprintthat.Common\obj\Release\Sprintthat.Common.csprojResolveAssemblyReference.cache
 G:\TestCode\C#\Sprint-that\Sprintthat.Common\obj\Release\Sprintthat.Common.dll
 G:\TestCode\C#\Sprint-that\Sprintthat.Common\obj\Release\Sprintthat.Common.pdb
+E:\GitHub\Sprintthat\Sprintthat.Common\bin\Release\Sprintthat.Common.dll
+E:\GitHub\Sprintthat\Sprintthat.Common\bin\Release\Sprintthat.Common.pdb
+E:\GitHub\Sprintthat\Sprintthat.Common\bin\Release\Newtonsoft.Json.dll
+E:\GitHub\Sprintthat\Sprintthat.Common\bin\Release\Newtonsoft.Json.xml
+E:\GitHub\Sprintthat\Sprintthat.Common\obj\Release\Sprintthat.Common.csprojResolveAssemblyReference.cache
+E:\GitHub\Sprintthat\Sprintthat.Common\obj\Release\Sprintthat.Common.dll
+E:\GitHub\Sprintthat\Sprintthat.Common\obj\Release\Sprintthat.Common.pdb

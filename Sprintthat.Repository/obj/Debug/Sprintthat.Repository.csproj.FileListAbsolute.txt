@@ -22,3 +22,15 @@ G:\TestCode\C#\Sprint-that\Sprintthat.Repository\bin\Debug\zh-Hans\EntityFramewo
 G:\TestCode\C#\Sprint-that\Sprintthat.Repository\obj\Debug\Sprintthat.Repository.csprojResolveAssemblyReference.cache
 G:\TestCode\C#\Sprint-that\Sprintthat.Repository\obj\Debug\Sprintthat.Repository.dll
 G:\TestCode\C#\Sprint-that\Sprintthat.Repository\obj\Debug\Sprintthat.Repository.pdb
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Debug\Sprintthat.Repository.dll
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Debug\Sprintthat.Repository.pdb
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Debug\Sprintthat.Data.dll
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Debug\Sprintthat.Domain.dll
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Debug\EntityFramework.dll
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Debug\Sprintthat.Data.pdb
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Debug\Sprintthat.Domain.pdb
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Debug\EntityFramework.xml
+E:\GitHub\Sprintthat\Sprintthat.Repository\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\GitHub\Sprintthat\Sprintthat.Repository\obj\Debug\Sprintthat.Repository.csprojResolveAssemblyReference.cache
+E:\GitHub\Sprintthat\Sprintthat.Repository\obj\Debug\Sprintthat.Repository.dll
+E:\GitHub\Sprintthat\Sprintthat.Repository\obj\Debug\Sprintthat.Repository.pdb
