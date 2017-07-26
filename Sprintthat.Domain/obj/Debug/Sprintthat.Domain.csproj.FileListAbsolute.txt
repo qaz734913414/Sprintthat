@@ -13,3 +13,13 @@ E:\GitHub\Sprintthat\Sprintthat.Domain\bin\Debug\Sprintthat.Domain.pdb
 E:\GitHub\Sprintthat\Sprintthat.Domain\obj\Debug\Sprintthat.Domain.dll
 E:\GitHub\Sprintthat\Sprintthat.Domain\obj\Debug\Sprintthat.Domain.pdb
 E:\GitHub\Sprintthat\Sprintthat.Domain\obj\Debug\Sprintthat.Domain.csprojResolveAssemblyReference.cache
+E:\01 Github\Sprintthat\Sprintthat.Domain\bin\Debug\Sprintthat.Domain.dll
+E:\01 Github\Sprintthat\Sprintthat.Domain\bin\Debug\Sprintthat.Domain.pdb
+E:\01 Github\Sprintthat\Sprintthat.Domain\obj\Debug\Sprintthat.Domain.csprojResolveAssemblyReference.cache
+E:\01 Github\Sprintthat\Sprintthat.Domain\obj\Debug\Sprintthat.Domain.dll
+E:\01 Github\Sprintthat\Sprintthat.Domain\obj\Debug\Sprintthat.Domain.pdb
+E:\01-Github\Sprintthat\Sprintthat.Domain\bin\Debug\Sprintthat.Domain.dll
+E:\01-Github\Sprintthat\Sprintthat.Domain\bin\Debug\Sprintthat.Domain.pdb
+E:\01-Github\Sprintthat\Sprintthat.Domain\obj\Debug\Sprintthat.Domain.dll
+E:\01-Github\Sprintthat\Sprintthat.Domain\obj\Debug\Sprintthat.Domain.pdb
+E:\01-Github\Sprintthat\Sprintthat.Domain\obj\Debug\Sprintthat.Domain.csprojResolveAssemblyReference.cache

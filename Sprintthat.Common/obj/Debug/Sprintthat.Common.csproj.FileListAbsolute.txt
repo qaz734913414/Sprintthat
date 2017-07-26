@@ -19,3 +19,17 @@ E:\GitHub\Sprintthat\Sprintthat.Common\bin\Debug\Newtonsoft.Json.xml
 E:\GitHub\Sprintthat\Sprintthat.Common\obj\Debug\Sprintthat.Common.csprojResolveAssemblyReference.cache
 E:\GitHub\Sprintthat\Sprintthat.Common\obj\Debug\Sprintthat.Common.dll
 E:\GitHub\Sprintthat\Sprintthat.Common\obj\Debug\Sprintthat.Common.pdb
+E:\01 Github\Sprintthat\Sprintthat.Common\bin\Debug\Sprintthat.Common.dll
+E:\01 Github\Sprintthat\Sprintthat.Common\bin\Debug\Sprintthat.Common.pdb
+E:\01 Github\Sprintthat\Sprintthat.Common\bin\Debug\Newtonsoft.Json.dll
+E:\01 Github\Sprintthat\Sprintthat.Common\bin\Debug\Newtonsoft.Json.xml
+E:\01 Github\Sprintthat\Sprintthat.Common\obj\Debug\Sprintthat.Common.csprojResolveAssemblyReference.cache
+E:\01 Github\Sprintthat\Sprintthat.Common\obj\Debug\Sprintthat.Common.dll
+E:\01 Github\Sprintthat\Sprintthat.Common\obj\Debug\Sprintthat.Common.pdb
+E:\01-Github\Sprintthat\Sprintthat.Common\bin\Debug\Sprintthat.Common.dll
+E:\01-Github\Sprintthat\Sprintthat.Common\bin\Debug\Sprintthat.Common.pdb
+E:\01-Github\Sprintthat\Sprintthat.Common\bin\Debug\Newtonsoft.Json.dll
+E:\01-Github\Sprintthat\Sprintthat.Common\bin\Debug\Newtonsoft.Json.xml
+E:\01-Github\Sprintthat\Sprintthat.Common\obj\Debug\Sprintthat.Common.csprojResolveAssemblyReference.cache
+E:\01-Github\Sprintthat\Sprintthat.Common\obj\Debug\Sprintthat.Common.dll
+E:\01-Github\Sprintthat\Sprintthat.Common\obj\Debug\Sprintthat.Common.pdb

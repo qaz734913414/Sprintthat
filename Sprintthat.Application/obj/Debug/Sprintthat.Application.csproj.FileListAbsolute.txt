@@ -40,3 +40,39 @@ E:\GitHub\Sprintthat\Sprintthat.Application\bin\Debug\zh-Hans\EntityFramework.re
 E:\GitHub\Sprintthat\Sprintthat.Application\obj\Debug\Sprintthat.Application.csprojResolveAssemblyReference.cache
 E:\GitHub\Sprintthat\Sprintthat.Application\obj\Debug\Sprintthat.Application.dll
 E:\GitHub\Sprintthat\Sprintthat.Application\obj\Debug\Sprintthat.Application.pdb
+E:\01 Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Application.dll
+E:\01 Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Application.pdb
+E:\01 Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Data.dll
+E:\01 Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Domain.dll
+E:\01 Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Repository.dll
+E:\01 Github\Sprintthat\Sprintthat.Application\bin\Debug\EntityFramework.dll
+E:\01 Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Data.pdb
+E:\01 Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Domain.pdb
+E:\01 Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Repository.pdb
+E:\01 Github\Sprintthat\Sprintthat.Application\bin\Debug\EntityFramework.xml
+E:\01 Github\Sprintthat\Sprintthat.Application\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\01 Github\Sprintthat\Sprintthat.Application\obj\Debug\Sprintthat.Application.csprojResolveAssemblyReference.cache
+E:\01 Github\Sprintthat\Sprintthat.Application\obj\Debug\Sprintthat.Application.dll
+E:\01 Github\Sprintthat\Sprintthat.Application\obj\Debug\Sprintthat.Application.pdb
+E:\01 Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Common.dll
+E:\01 Github\Sprintthat\Sprintthat.Application\bin\Debug\Newtonsoft.Json.dll
+E:\01 Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Common.pdb
+E:\01 Github\Sprintthat\Sprintthat.Application\bin\Debug\Newtonsoft.Json.xml
+E:\01-Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Application.dll
+E:\01-Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Application.pdb
+E:\01-Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Common.dll
+E:\01-Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Data.dll
+E:\01-Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Domain.dll
+E:\01-Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Repository.dll
+E:\01-Github\Sprintthat\Sprintthat.Application\bin\Debug\Newtonsoft.Json.dll
+E:\01-Github\Sprintthat\Sprintthat.Application\bin\Debug\EntityFramework.dll
+E:\01-Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Common.pdb
+E:\01-Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Data.pdb
+E:\01-Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Domain.pdb
+E:\01-Github\Sprintthat\Sprintthat.Application\bin\Debug\Sprintthat.Repository.pdb
+E:\01-Github\Sprintthat\Sprintthat.Application\bin\Debug\Newtonsoft.Json.xml
+E:\01-Github\Sprintthat\Sprintthat.Application\bin\Debug\EntityFramework.xml
+E:\01-Github\Sprintthat\Sprintthat.Application\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\01-Github\Sprintthat\Sprintthat.Application\obj\Debug\Sprintthat.Application.csprojResolveAssemblyReference.cache
+E:\01-Github\Sprintthat\Sprintthat.Application\obj\Debug\Sprintthat.Application.dll
+E:\01-Github\Sprintthat\Sprintthat.Application\obj\Debug\Sprintthat.Application.pdb

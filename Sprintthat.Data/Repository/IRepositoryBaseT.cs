@@ -23,7 +23,7 @@ namespace Sprintthat.Data.Repository
         TEntity Find(Expression<Func<TEntity, bool>> predicate);
         IQueryable<TEntity> Query();
         IQueryable<TEntity> Query(Expression<Func<TEntity, bool>> predicate);
-        List<TEntity> FindBySql(string strSql);
-        List<TEntity> FindBySql(string strSql, DbParameter[] dbParameter);
+        IEnumerable<TEntity> FindBySql(string strSql);
+        IEnumerable<TEntity> FindBySql(string strSql, DbParameter[] dbParameter);
     }
 }

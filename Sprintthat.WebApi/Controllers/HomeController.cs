@@ -1,5 +1,7 @@
-﻿using Sprintthat.Application;
-using Sprintthat.Common;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
 using System.Web.Mvc;
 
 namespace Sprintthat.WebApi.Controllers
@@ -8,13 +10,8 @@ namespace Sprintthat.WebApi.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Title = "Home Page";
             return View();
-        }
-
-        [HttpGet]
-        public ActionResult GetModuleList()
-        {
-            return Content(new ModuleApp().GetModuleList().ToJson());
         }
     }
 }

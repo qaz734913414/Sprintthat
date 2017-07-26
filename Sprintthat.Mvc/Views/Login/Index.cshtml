@@ -3,13 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <title>登录至 Sprintthat</title>
-    <link rel="stylesheet" href="~/Content/js/lib/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Content/lib/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="~/Content/css/default.css">
 </head>
 <body>
-
+    <canvas id="canvas"></canvas>
     <div class="page">
-
         <div class="panel panel-default" id="loginPane">
             <div class="panel-heading">
                 Sprintthat
@@ -23,18 +22,100 @@
                     <input type="password" class="form-control" placeholder="密码" id="passWord">
                     <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
                 </div>
-
-                <button type="button" class="btn btn-success btn-sm btn-block login-item" id="login">登录</button>
+                <button type="button" class="btn btn-danger btn-sm btn-block login-item" id="login">登录</button>
             </div>
         </div>
-
     </div>
 
-
-    <script src="~/Content/js/lib/jquery-1.11.3.min.js"></script>
-    <script src="~/Content/js/lib/bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+    <script src="~/Content/js/jquery.min.js"></script>
+    <script src="~/Content/lib/bootstrap/js/bootstrap.js"></script>
     <script>
+
+        //定义画布宽高和生成点的个数
+        var WIDTH = window.innerWidth, HEIGHT = window.innerHeight, POINT = 120;
+        var canvas = document.getElementById('canvas');
+        canvas.width = WIDTH, canvas.height = HEIGHT;
+
+        var context = canvas.getContext('2d');
+        context.strokeStyle = 'rgba(0,0,0,0.02)',
+            context.strokeWidth = 1,
+            context.fillStyle = 'rgba(255,0,0,0.3)';
+
+        var g_aCircleArr = [];
+        var g_aRadius = [18, 1];
+
+        //点：圆心xy坐标，半径，每帧移动xy的距离
+        function Circle(x, y, r, moveX, moveY, color) {
+            this.x = x;
+            this.y = y;
+            this.r = r;
+            this.moveX = moveX;
+            this.moveY = moveY;
+            this.color = color;
+        }
+
+        //生成max和min之间的随机数
+        function randomNum(max, _min) {
+            var min = arguments[1] || 0;
+            return Math.floor(Math.random() * (max - min + 1) + min);
+        }
+
+        // 绘制原点
+        function drawCricle(cxt, x, y, r, moveX, moveY, color) {
+            var circle = new Circle(x, y, r, moveX, moveY, color);
+            cxt.beginPath();
+            cxt.arc(circle.x, circle.y, circle.r, 0, 2 * Math.PI);
+            cxt.closePath();
+            cxt.fill();
+            return circle;
+        }
+
+        //每帧绘制
+        function run_draw() {
+            context.clearRect(0, 0, canvas.width, canvas.height);
+            for (var i = 0; i < POINT; i++) {
+                drawCricle(
+                    context,
+                    g_aCircleArr[i].x,
+                    g_aCircleArr[i].y,
+                    g_aCircleArr[i].r,
+                    g_aCircleArr[i].color);
+            }
+        }
+
+        //初始化生成原点
+        function init() {
+            for (var i = 0; i < POINT; i++) {
+                g_aCircleArr.push(
+                    drawCricle(
+                        context,
+                        randomNum(WIDTH),
+                        randomNum(HEIGHT),
+                        randomNum(g_aRadius[0], g_aRadius[1]),
+                        randomNum(10, -10) / 40,
+                        randomNum(10, -10) / 40)
+                );
+            }
+            run_draw();
+        }
+
         $(function () {
+            init();
+            setInterval(function () {
+                for (var i = 0; i < POINT; i++) {
+                    var cir = g_aCircleArr[i];
+                    cir.x += cir.moveX;
+                    cir.y += cir.moveY;
+
+                    if (cir.x > WIDTH) cir.x = 0;
+                    else if (cir.x < 0) cir.x = WIDTH;
+                    if (cir.y > HEIGHT) cir.y = 0;
+                    else if (cir.y < 0) cir.y = HEIGHT;
+
+                }
+                run_draw();
+            }, 26);
+
             $('#login').click(function () {
                 $(this).button('loading');
                 loginThat(this);

@@ -19,7 +19,7 @@ namespace Sprintthat.Data.Repository
         TEntity Find<TEntity>(Expression<Func<TEntity, bool>> predicate) where TEntity : class;
         IQueryable<TEntity> Query<TEntity>() where TEntity : class;
         IQueryable<TEntity> Query<TEntity>(Expression<Func<TEntity, bool>> predicate) where TEntity : class;
-        List<TEntity> FindBySql<TEntity>(string strSql) where TEntity : class;
-        List<TEntity> FindBySql<TEntity>(string strSql, DbParameter[] dbParameter) where TEntity : class;
+        IEnumerable<TEntity> FindBySql<TEntity>(string strSql) where TEntity : class;
+        IEnumerable<TEntity> FindBySql<TEntity>(string strSql, DbParameter[] dbParameter) where TEntity : class;
     }
 }

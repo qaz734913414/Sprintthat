@@ -40,3 +40,31 @@ E:\GitHub\Sprintthat\Sprintthat.Data\bin\Debug\zh-Hans\EntityFramework.resources
 E:\GitHub\Sprintthat\Sprintthat.Data\obj\Debug\Sprintthat.Data.csprojResolveAssemblyReference.cache
 E:\GitHub\Sprintthat\Sprintthat.Data\obj\Debug\Sprintthat.Data.dll
 E:\GitHub\Sprintthat\Sprintthat.Data\obj\Debug\Sprintthat.Data.pdb
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Debug\Sprintthat.Data.dll
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Debug\Sprintthat.Data.pdb
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Debug\EntityFramework.dll
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Debug\Sprintthat.Domain.dll
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Debug\Sprintthat.Mapping.dll
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Debug\Sprintthat.Domain.pdb
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Debug\Sprintthat.Mapping.pdb
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Debug\EntityFramework.xml
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\01 Github\Sprintthat\Sprintthat.Data\obj\Debug\Sprintthat.Data.csprojResolveAssemblyReference.cache
+E:\01 Github\Sprintthat\Sprintthat.Data\obj\Debug\Sprintthat.Data.dll
+E:\01 Github\Sprintthat\Sprintthat.Data\obj\Debug\Sprintthat.Data.pdb
+E:\01-Github\Sprintthat\Sprintthat.Data\bin\Debug\Sprintthat.Data.dll
+E:\01-Github\Sprintthat\Sprintthat.Data\bin\Debug\Sprintthat.Data.pdb
+E:\01-Github\Sprintthat\Sprintthat.Data\bin\Debug\EntityFramework.dll
+E:\01-Github\Sprintthat\Sprintthat.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\01-Github\Sprintthat\Sprintthat.Data\bin\Debug\Sprintthat.Domain.dll
+E:\01-Github\Sprintthat\Sprintthat.Data\bin\Debug\Sprintthat.Mapping.dll
+E:\01-Github\Sprintthat\Sprintthat.Data\bin\Debug\Sprintthat.Domain.pdb
+E:\01-Github\Sprintthat\Sprintthat.Data\bin\Debug\Sprintthat.Mapping.pdb
+E:\01-Github\Sprintthat\Sprintthat.Data\bin\Debug\EntityFramework.xml
+E:\01-Github\Sprintthat\Sprintthat.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\01-Github\Sprintthat\Sprintthat.Data\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\01-Github\Sprintthat\Sprintthat.Data\obj\Debug\Sprintthat.Data.csprojResolveAssemblyReference.cache
+E:\01-Github\Sprintthat\Sprintthat.Data\obj\Debug\Sprintthat.Data.dll
+E:\01-Github\Sprintthat\Sprintthat.Data\obj\Debug\Sprintthat.Data.pdb

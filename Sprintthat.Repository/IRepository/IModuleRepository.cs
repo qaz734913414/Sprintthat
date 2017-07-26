@@ -1,9 +1,9 @@
 ﻿using Sprintthat.Data.Repository;
-using Sprintthat.Domain.Entity;
+using Sprintthat.Domain;
 
 namespace Sprintthat.Repository.IRepository
 {
-    public interface IModuleRepository : IRepositoryBase<ModuleEntity>
+    public interface IModuleRepository : IRepositoryBase<SysModule>
     {
 
     }

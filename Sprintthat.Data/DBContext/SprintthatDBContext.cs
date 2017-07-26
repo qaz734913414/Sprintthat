@@ -27,7 +27,8 @@ namespace Sprintthat.Data.DBContext
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            string assembleFileName = Assembly.GetExecutingAssembly().CodeBase.Replace("Sprintthat.Data.DLL", "Sprintthat.Mapping.Dll").Replace("file:///", "");
+            //string assembleFileName = Assembly.GetExecutingAssembly().CodeBase.Replace("Sprintthat.Data.DLL", "Sprintthat.Mapping.Dll").Replace("file:///", "");
+            string assembleFileName = System.Web.HttpContext.Current.Server.MapPath("~/bin/") + "Sprintthat.Mapping.dll";
             Assembly asm = Assembly.LoadFile(assembleFileName);
             var typesToRegister = asm.GetTypes()
             .Where(type => !String.IsNullOrEmpty(type.Namespace))

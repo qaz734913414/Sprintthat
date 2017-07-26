@@ -129,12 +129,12 @@ namespace Sprintthat.Data.Repository
             return _dbcontext.Set<TEntity>().Where(predicate).AsQueryable();
         }
 
-        public List<TEntity> FindBySql<TEntity>(string strSql) where TEntity : class
+        public IEnumerable<TEntity> FindBySql<TEntity>(string strSql) where TEntity : class
         {
             return _dbcontext.Database.SqlQuery<TEntity>(strSql).ToList();
         }
 
-        public List<TEntity> FindBySql<TEntity>(string strSql, DbParameter[] dbParameter) where TEntity : class
+        public IEnumerable<TEntity> FindBySql<TEntity>(string strSql, DbParameter[] dbParameter) where TEntity : class
         {
             return _dbcontext.Database.SqlQuery<TEntity>(strSql, dbParameter).ToList();
         }

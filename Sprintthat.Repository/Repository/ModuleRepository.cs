@@ -1,5 +1,5 @@
 ﻿using Sprintthat.Data.Repository;
-using Sprintthat.Domain.Entity;
+using Sprintthat.Domain;
 using Sprintthat.Repository.IRepository;
 using System;
 using System.Collections.Generic;
@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Sprintthat.Repository.Repository
 {
-    public class ModuleRepository : RepositoryBase<ModuleEntity>, IModuleRepository
+    public class ModuleRepository : RepositoryBase<SysModule>, IModuleRepository
     {
 
     }

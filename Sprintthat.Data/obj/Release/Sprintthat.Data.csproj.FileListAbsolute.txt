@@ -26,3 +26,17 @@ E:\GitHub\Sprintthat\Sprintthat.Data\bin\Release\zh-Hans\EntityFramework.resourc
 E:\GitHub\Sprintthat\Sprintthat.Data\obj\Release\Sprintthat.Data.csprojResolveAssemblyReference.cache
 E:\GitHub\Sprintthat\Sprintthat.Data\obj\Release\Sprintthat.Data.dll
 E:\GitHub\Sprintthat\Sprintthat.Data\obj\Release\Sprintthat.Data.pdb
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Release\Sprintthat.Data.dll
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Release\Sprintthat.Data.pdb
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Release\EntityFramework.dll
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Release\EntityFramework.SqlServer.dll
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Release\Sprintthat.Domain.dll
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Release\Sprintthat.Mapping.dll
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Release\Sprintthat.Domain.pdb
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Release\Sprintthat.Mapping.pdb
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Release\EntityFramework.xml
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Release\EntityFramework.SqlServer.xml
+E:\01 Github\Sprintthat\Sprintthat.Data\bin\Release\zh-Hans\EntityFramework.resources.dll
+E:\01 Github\Sprintthat\Sprintthat.Data\obj\Release\Sprintthat.Data.csprojResolveAssemblyReference.cache
+E:\01 Github\Sprintthat\Sprintthat.Data\obj\Release\Sprintthat.Data.dll
+E:\01 Github\Sprintthat\Sprintthat.Data\obj\Release\Sprintthat.Data.pdb

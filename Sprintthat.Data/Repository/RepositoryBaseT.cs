@@ -83,12 +83,18 @@ namespace Sprintthat.Data.Repository
             return dbcontext.Set<TEntity>().Where(predicate).AsQueryable();
         }
 
-        public List<TEntity> FindBySql(string strSql)
+        //public IQueryable<TEntity> JoinQuery<TInner, TKey, TResult>(IEnumerable<TInner> inner, Expression<Func<TEntity, TKey>> outerKeySelector,
+        //                                                                                                    Expression<Func<TInner, TKey>> innerKeySelector, Func<TEntity, TInner, TResult> resultSelector) where TInner : class, new() where TKey : class where TResult : class
+        //{
+        //    return dbcontext.Set<TEntity>().Join(inner, outerKeySelector, innerKeySelector, resultSelector);
+        //}
+
+        public IEnumerable<TEntity> FindBySql(string strSql)
         {
             return dbcontext.Database.SqlQuery<TEntity>(strSql).ToList();
         }
 
-        public List<TEntity> FindBySql(string strSql, DbParameter[] dbParameter)
+        public IEnumerable<TEntity> FindBySql(string strSql, DbParameter[] dbParameter)
         {
             return dbcontext.Database.SqlQuery<TEntity>(strSql, dbParameter).ToList();
         }

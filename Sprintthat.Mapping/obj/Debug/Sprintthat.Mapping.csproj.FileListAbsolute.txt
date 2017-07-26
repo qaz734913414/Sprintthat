@@ -34,3 +34,27 @@ E:\GitHub\Sprintthat\Sprintthat.Mapping\bin\Debug\zh-Hans\EntityFramework.resour
 E:\GitHub\Sprintthat\Sprintthat.Mapping\obj\Debug\Sprintthat.Mapping.csprojResolveAssemblyReference.cache
 E:\GitHub\Sprintthat\Sprintthat.Mapping\obj\Debug\Sprintthat.Mapping.dll
 E:\GitHub\Sprintthat\Sprintthat.Mapping\obj\Debug\Sprintthat.Mapping.pdb
+E:\01 Github\Sprintthat\Sprintthat.Mapping\bin\Debug\Sprintthat.Mapping.dll
+E:\01 Github\Sprintthat\Sprintthat.Mapping\bin\Debug\Sprintthat.Mapping.pdb
+E:\01 Github\Sprintthat\Sprintthat.Mapping\bin\Debug\EntityFramework.dll
+E:\01 Github\Sprintthat\Sprintthat.Mapping\bin\Debug\EntityFramework.SqlServer.dll
+E:\01 Github\Sprintthat\Sprintthat.Mapping\bin\Debug\Sprintthat.Domain.dll
+E:\01 Github\Sprintthat\Sprintthat.Mapping\bin\Debug\Sprintthat.Domain.pdb
+E:\01 Github\Sprintthat\Sprintthat.Mapping\bin\Debug\EntityFramework.xml
+E:\01 Github\Sprintthat\Sprintthat.Mapping\bin\Debug\EntityFramework.SqlServer.xml
+E:\01 Github\Sprintthat\Sprintthat.Mapping\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\01 Github\Sprintthat\Sprintthat.Mapping\obj\Debug\Sprintthat.Mapping.csprojResolveAssemblyReference.cache
+E:\01 Github\Sprintthat\Sprintthat.Mapping\obj\Debug\Sprintthat.Mapping.dll
+E:\01 Github\Sprintthat\Sprintthat.Mapping\obj\Debug\Sprintthat.Mapping.pdb
+E:\01-Github\Sprintthat\Sprintthat.Mapping\bin\Debug\Sprintthat.Mapping.dll
+E:\01-Github\Sprintthat\Sprintthat.Mapping\bin\Debug\Sprintthat.Mapping.pdb
+E:\01-Github\Sprintthat\Sprintthat.Mapping\bin\Debug\EntityFramework.dll
+E:\01-Github\Sprintthat\Sprintthat.Mapping\bin\Debug\EntityFramework.SqlServer.dll
+E:\01-Github\Sprintthat\Sprintthat.Mapping\bin\Debug\Sprintthat.Domain.dll
+E:\01-Github\Sprintthat\Sprintthat.Mapping\bin\Debug\Sprintthat.Domain.pdb
+E:\01-Github\Sprintthat\Sprintthat.Mapping\bin\Debug\EntityFramework.xml
+E:\01-Github\Sprintthat\Sprintthat.Mapping\bin\Debug\EntityFramework.SqlServer.xml
+E:\01-Github\Sprintthat\Sprintthat.Mapping\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\01-Github\Sprintthat\Sprintthat.Mapping\obj\Debug\Sprintthat.Mapping.csprojResolveAssemblyReference.cache
+E:\01-Github\Sprintthat\Sprintthat.Mapping\obj\Debug\Sprintthat.Mapping.dll
+E:\01-Github\Sprintthat\Sprintthat.Mapping\obj\Debug\Sprintthat.Mapping.pdb

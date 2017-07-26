@@ -38,6 +38,7 @@
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -47,11 +48,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LogMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ModuleMap.cs" />
-    <Compile Include="RoleAuthorizeMap.cs" />
-    <Compile Include="UserLogonMap.cs" />
+    <Compile Include="SysLogItemOperateMap.cs" />
+    <Compile Include="SysLogItemOperateMap.Generated.cs" />
+    <Compile Include="SysLogLogonMap.cs" />
+    <Compile Include="SysLogLogonMap.Generated.cs" />
+    <Compile Include="SysLogModuleMap.cs" />
+    <Compile Include="SysLogModuleMap.Generated.cs" />
+    <Compile Include="SysModuleMap.cs" />
+    <Compile Include="SysModuleMap.Generated.cs" />
+    <Compile Include="SysRoleAuthorizeMap.cs" />
+    <Compile Include="SysRoleAuthorizeMap.Generated.cs" />
+    <Compile Include="SysRoleMap.cs" />
+    <Compile Include="SysRoleMap.Generated.cs" />
+    <Compile Include="SysUserLogonMap.cs" />
+    <Compile Include="SysUserLogonMap.Generated.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Sprintthat.Domain\Sprintthat.Domain.csproj">

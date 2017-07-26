@@ -298,3 +298,207 @@ E:\GitHub\Sprintthat\Sprintthat.Mvc\obj\Debug\Sprintthat.Mvc.pdb
 E:\GitHub\Sprintthat\Sprintthat.Mvc\bin\System.Web.Cors.dll
 E:\GitHub\Sprintthat\Sprintthat.Mvc\bin\System.Web.Http.Cors.dll
 E:\GitHub\Sprintthat\Sprintthat.Mvc\bin\System.Web.Http.Cors.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\csc.exe
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\csc.exe.config
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\csc.rsp
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\csi.exe
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\csi.rsp
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\System.AppContext.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\System.Collections.Immutable.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\System.IO.FileSystem.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\System.Reflection.Metadata.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\vbc.exe
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\vbc.exe.config
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\vbc.rsp
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\VBCSCompiler.exe
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\VBCSCompiler.exe.config
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Mvc.dll.config
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Mvc.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Mvc.pdb
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Antlr3.Runtime.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\EntityFramework.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\EntityFramework.SqlServer.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.Agent.Intercept.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.DependencyCollector.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.Web.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.WindowsServer.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.ApplicationInsights.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.Web.Infrastructure.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Newtonsoft.Json.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Application.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Common.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Data.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Domain.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Mapping.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Repository.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Net.Http.Formatting.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Cors.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Helpers.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Http.Cors.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Http.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Http.WebHost.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Mvc.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Optimization.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Razor.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.WebPages.Deployment.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.WebPages.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.WebPages.Razor.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\WebGrease.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Application.pdb
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Common.pdb
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Data.pdb
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Domain.pdb
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Mapping.pdb
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Repository.pdb
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\EntityFramework.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\EntityFramework.SqlServer.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Http.Cors.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Helpers.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Mvc.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Optimization.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Razor.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.WebPages.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.WebPages.Deployment.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.WebPages.Razor.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Antlr3.Runtime.pdb
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Newtonsoft.Json.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Net.Http.Formatting.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Http.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Http.WebHost.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.ApplicationInsights.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.DependencyCollector.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.WindowsServer.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.Web.xml
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\EntityFramework.resources.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.Http.resources.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\obj\Debug\Sprintthat.Mvc.csprojResolveAssemblyReference.cache
+E:\01 Github\Sprintthat\Sprintthat.Mvc\obj\Debug\Sprintthat.Mvc.dll
+E:\01 Github\Sprintthat\Sprintthat.Mvc\obj\Debug\Sprintthat.Mvc.pdb
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\csc.exe
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\csc.exe.config
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\csc.rsp
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\csi.exe
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\csi.rsp
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\System.AppContext.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\System.Collections.Immutable.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\System.IO.FileSystem.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\System.Reflection.Metadata.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\vbc.exe
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\vbc.exe.config
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\vbc.rsp
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\VBCSCompiler.exe
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\roslyn\VBCSCompiler.exe.config
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Mvc.dll.config
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Mvc.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Mvc.pdb
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Antlr3.Runtime.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\EntityFramework.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\EntityFramework.SqlServer.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.Agent.Intercept.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.DependencyCollector.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.Web.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.WindowsServer.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.ApplicationInsights.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.Web.Infrastructure.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Newtonsoft.Json.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Application.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Common.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Data.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Domain.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Mapping.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Repository.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Net.Http.Formatting.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Cors.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Helpers.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Http.Cors.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Http.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Http.WebHost.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Mvc.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Optimization.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Razor.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.WebPages.Deployment.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.WebPages.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.WebPages.Razor.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\WebGrease.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Application.pdb
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Common.pdb
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Data.pdb
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Domain.pdb
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Mapping.pdb
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Sprintthat.Repository.pdb
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\EntityFramework.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\EntityFramework.SqlServer.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Http.Cors.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Helpers.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Mvc.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Optimization.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Razor.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.WebPages.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.WebPages.Deployment.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.WebPages.Razor.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Antlr3.Runtime.pdb
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Newtonsoft.Json.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Net.Http.Formatting.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Http.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\System.Web.Http.WebHost.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.ApplicationInsights.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.DependencyCollector.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.WindowsServer.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\Microsoft.AI.Web.xml
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\EntityFramework.resources.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.Http.resources.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\obj\Debug\Sprintthat.Mvc.csprojResolveAssemblyReference.cache
+E:\01-Github\Sprintthat\Sprintthat.Mvc\obj\Debug\Sprintthat.Mvc.dll
+E:\01-Github\Sprintthat\Sprintthat.Mvc\obj\Debug\Sprintthat.Mvc.pdb

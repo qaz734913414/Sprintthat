@@ -41,11 +41,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entity\LogEntity.cs" />
-    <Compile Include="Entity\RoleAuthorizeEntity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Entity\ModuleEntity.cs" />
-    <Compile Include="Entity\UserLogonEntity.cs" />
+    <Compile Include="SysLogItemOperate.cs" />
+    <Compile Include="SysLogItemOperate.Generated.cs" />
+    <Compile Include="SysLogLogon.cs" />
+    <Compile Include="SysLogLogon.Generated.cs" />
+    <Compile Include="SysLogModule.cs" />
+    <Compile Include="SysLogModule.Generated.cs" />
+    <Compile Include="SysModule.cs" />
+    <Compile Include="SysModule.Generated.cs" />
+    <Compile Include="SysRole.cs" />
+    <Compile Include="SysRole.Generated.cs" />
+    <Compile Include="SysRoleAuthorize.cs" />
+    <Compile Include="SysRoleAuthorize.Generated.cs" />
+    <Compile Include="SysUserLogon.cs" />
+    <Compile Include="SysUserLogon.Generated.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

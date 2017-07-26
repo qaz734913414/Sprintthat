@@ -41,11 +41,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ModuleApp.cs" />
+    <Compile Include="GlobalOperator.cs" />
+    <Compile Include="GlobalParam.cs" />
+    <Compile Include="Systtem\ILogAppBase.cs" />
+    <Compile Include="Systtem\LogModuleApp.cs" />
+    <Compile Include="Systtem\RoleAuthorizeApp.cs" />
+    <Compile Include="Systtem\LogLogonApp.cs" />
+    <Compile Include="Systtem\ModuleApp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UserLogonApp.cs" />
+    <Compile Include="Systtem\UserLogonApp.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Sprintthat.Common\Sprintthat.Common.csproj">
+      <Project>{f21c617b-6fa4-491c-8769-7725d5868f66}</Project>
+      <Name>Sprintthat.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Sprintthat.Data\Sprintthat.Data.csproj">
       <Project>{f5e851ca-6e5b-4161-b762-2b20ebe989bf}</Project>
       <Name>Sprintthat.Data</Name>
@@ -58,6 +68,9 @@
       <Project>{c1966364-0bf4-4682-b0cd-e9a17b084812}</Project>
       <Name>Sprintthat.Repository</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Business\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
